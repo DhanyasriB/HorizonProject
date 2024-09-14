@@ -1,0 +1,8 @@
+NPM Details :
+***********
+
+1. npm i bootstrap --save
+2. ng add @angular/material--save
+3. npm i --save chart.js --force
+
+
